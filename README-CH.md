@@ -10,12 +10,12 @@
 
 ## Step
 
-### 1. 設定程式並部署
+### 1. Set up and deploy the script
 在 Google Sheet -> `擴充功能` -> `Apps Script` 內貼上程式碼  
 點選右上角的 `新增部署作業` -> `網頁應用程式` -> `部署`  
 
 
-### 2. 測試編輯
+### 2. Test editing
 
 ![before-edit](./images/before-edit.png)
 
